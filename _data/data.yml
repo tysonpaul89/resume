@@ -99,12 +99,38 @@ contact:
   snapchat:                 # https://www.snapchat.com/add/<username>
   twitch:                   # https://www.twitch.tv/<username>
 
-profile:
+skill:
   show: true
   order: 1
-  title: Profile
-  description: |
-    Experienced Full Stack Engineer with over 10 years of expertise in developing robust web applications using a variety of frontend and backend technologies. Proficient in designing scalable architectures and delivering high-quality, user-friendly solutions. Strong collaborator with a passion for learning new technologies and improving development workflows.
+  title: Skills
+  description:
+  groups:
+    - name: Backend
+      item:
+        - Python
+        - Node.js
+        - Go Lang
+        - Express
+        - Django
+    - name: Frontend
+      item:
+        - HTML
+        - CSS
+        - JavaScript
+        - Angular
+        - jQuery
+        - Bootstrap
+    - name: Database
+      item:
+        - PostgreSQL
+        - MySQL
+        - DynamoDB
+    - name: DevOps
+      item:
+        - Docker
+        - Gitlab CI/CD
+        - Terraform
+        - AWS
 
 experience:
   show: true
@@ -166,9 +192,61 @@ experience:
         + Collaborated with QA team and performed RESINS sensor integration testing.
         + Performed daily analysis of sensor data for any anomalies and maintained test reports and documentations.
 
+education:
+  show: true
+  order: 3
+  title: Education
+  description:
+  items:
+    - institution: Bachelor of Engineering in Electronics And Instrumentation
+      link:
+      date: April 2012
+      major: Sri Ramakrishna Engineering College - Coimbatore, Tamil Nadu, India
+      degree: Bachelor
+      description:
+
+    - institution: Higher Secondary
+      link:
+      date: March 2008
+      major: St. George's Higher Secondary School - Kothamangalam, Kerala, India
+      degree: HSC
+      description:
+
+    - institution: High School
+      link:
+      date: March 2006
+      major: Athanasius College High School - Kothamangalam, Kerala, India
+      degree: SSLC
+      description:
+
+certificate:
+  show: true
+  order: 4
+  title: Certificates
+  description:
+  items:
+    - name: AWS Certified Developer - Associate
+      issuer: by Amazon Web Services
+      date: 2023
+      link:
+      description:
+
+    - name: Certification in CouldFusion 8
+      issuer: by Brainbench
+      date: 2016
+      link:
+      description:
+
+profile:
+  show: false
+  order: 5
+  title: Profile
+  description: |
+    Experienced Full Stack Engineer with over 10 years of expertise in developing robust web applications using a variety of frontend and backend technologies. Proficient in designing scalable architectures and delivering high-quality, user-friendly solutions. Strong collaborator with a passion for learning new technologies and improving development workflows.
+
 project:
   show: false
-  order: 3
+  order: 6
   title: Projects
   description: |
     The project section in a resume is a section where you can highlight any significant projects that you have completed during your education, work experience, or personal endeavors. This section provides a detailed description of your projects that can showcase your skills, abilities, and achievements.
@@ -195,85 +273,6 @@ project:
         OSS project description...
         + First
         + Second
-
-skill:
-  show: true
-  order: 4
-  title: Skills
-  description:
-  groups:
-    - name: Backend
-      item:
-        - Python
-        - Node.js
-        - Go Lang
-        - Express
-        - Django
-    - name: Frontend
-      item:
-        - HTML
-        - CSS
-        - JavaScript
-        - Angular
-        - jQuery
-        - Bootstrap
-    - name: Database
-      item:
-        - PostgreSQL
-        - MySQL
-        - DynamoDB
-    - name: DevOps
-      item:
-        - Docker
-        - Gitlab CI/CD
-        - Terraform
-        - AWS
-        - Azure
-
-education:
-  show: true
-  order: 5
-  title: Education
-  description:
-  items:
-    - institution: Bachelor of Engineering in Electronics And Instrumentation
-      link:
-      date: April 2012
-      major: Sri Ramakrishna Engineering College
-      degree: Bachelor
-      description:
-
-    - institution: Higher Secondary
-      link:
-      date: March 2008
-      major: St. George's Higher Secondary School
-      degree: HSC
-      description:
-
-    - institution: High School
-      link:
-      date: March 2006
-      major: Athanasius College High School
-      degree: SSLC
-      description:
-
-certificate:
-  show: true
-  order: 6
-  title: Certificates
-  description:
-  items:
-    - name: AWS Certified Developer - Associate
-      issuer: by Amazon Web Services
-      date: 2023
-      link:
-      description:
-
-    - name: Certification in CouldFusion 8
-      issuer: by Brainbench
-      date: 2016
-      link:
-      description:
 
 publication:
   show: false
