@@ -115,7 +115,7 @@ experience:
     - company: Assistant Consultant
       link: 'https://www.tcs.com/'
       tags: Full-time
-      date: 2022.08 - Present
+      date: August 2022 - Present
       role: Assistant Consultant
       location: Kochi, Kerala, India
       description: |
@@ -128,7 +128,7 @@ experience:
     - company: Accubits Technologies Inc
       link: 'https://accubits.com/'
       tags: Full-time, Remote
-      date: 2021.02 - 2022.08
+      date: February 2021 - August 2022
       role: Python Developer
       location: Kochi, Kerala, India
       description: |
@@ -137,6 +137,34 @@ experience:
         + Designed and optimized database schemas in PostgreSQL and MySQL, ensuring data integrity and performance.
         + Implemented authentication and authorization mechanisms using OAuth and JWT, enhancing application security.
         + Participated in Agile ceremonies and collaborated closely with cross-functional teams to deliver high-quality software on time.
+
+    - company: Digital Mesh Softech(P) Ltd.
+      link: 'https://www.digitalmesh.com/'
+      tags: Full-time
+      date: July 2015 - February 2021
+      role: Senior Software Engineer
+      location: Kochi, Kerala, India
+      description: |
+        + Developed and maintained fullstack applications using Python, Django, jQuery and MySQL.
+        + Collaborated with senior developer to create a No code static website builder for a client.
+        + Led frontend development of internal HRMS application using Angular.
+        + Wrote unit and integration tests using Pytest and Jasmine, ensuring code quality and reliability.
+        + Worked with version control systems like Git to manage codebases and collaborate with team members.
+        + Conducted debugging and troubleshooting of applications, resolving issues and improving performance.
+        + Collaborated with senior developers to learn best practices and improve development skills.
+        + Assisted senior developers to migrate and maintain a E-commerce platform using ColdFusion 11, jQuery and Microsoft SQL database.
+        + Maintained a rostering application for healthcare teams using PHP, Yii framework and jQuery.
+
+    - company: Vikram Sarabhai Space Centre, ISRO
+      link: 'https://www.digitalmesh.com/'
+      tags: Full-time
+      date: October 2012 - October 2013
+      role: Contract Engineer
+      location: Thiruvananthapuram, Kerala, India
+      description: |
+        + Assisted senior engineer with initial testing of the RESINS sensor before handing it over to QA team.
+        + Collaborated with QA team and performed RESINS sensor integration testing.
+        + Performed daily analysis of sensor data for any anomalies and maintained test reports and documentations.
 
 project:
   show: false
@@ -173,26 +201,6 @@ skill:
   order: 4
   title: Skills
   description:
-  items:
-    - name: Python
-      level: 5
-    - name: Angular
-      level: 3
-    - name: NodeJs
-      level: 3
-    - name: Skill D
-      level: 4
-    - name: Skill E
-      level: 3
-    - name: Skill F
-      level: 1
-    - name: Skill G
-      level: 4
-    - name: Skill H
-      level: 4
-    - name: Skill I
-      level: 3
-
   groups:
     - name: Backend
       item:
@@ -230,16 +238,23 @@ education:
   items:
     - institution: Bachelor of Engineering in Electronics And Instrumentation
       link:
-      date: 2008 - 2012
+      date: April 2012
       major: Sri Ramakrishna Engineering College
       degree: Bachelor
       description:
 
     - institution: Higher Secondary
       link:
-      date: 2011 - 2015
+      date: March 2008
       major: St. George's Higher Secondary School
-      degree: Higher Secondary
+      degree: HSC
+      description:
+
+    - institution: High School
+      link:
+      date: March 2006
+      major: Athanasius College High School
+      degree: SSLC
       description:
 
 certificate:
@@ -248,11 +263,12 @@ certificate:
   title: Certificates
   description:
   items:
-    - name: AWS Certified Developer – Associate
-      issuer: AWS
+    - name: AWS Certified Developer - Associate
+      issuer: by Amazon Web Services
       date: 2023
-      link: '#'
+      link:
       description:
+
     - name: Certification in CouldFusion 8
       issuer: by Brainbench
       date: 2016
