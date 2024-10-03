@@ -104,7 +104,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Experienced Full Stack Engineer with over {{ site.time | date: '%Y' | minus: 2015 }} years of expertise in developing robust web applications using a variety of frontend and backend technologies. Strong collaborator with a passion for learning new technologies and improving development workflows.
+    Experienced Full Stack Engineer with over 9 years of expertise in developing robust web applications using a variety of frontend and backend technologies. Strong collaborator with a passion for learning new technologies and improving development workflows.
 
 skill:
   show: true
