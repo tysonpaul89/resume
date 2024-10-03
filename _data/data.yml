@@ -99,9 +99,16 @@ contact:
   snapchat:                 # https://www.snapchat.com/add/<username>
   twitch:                   # https://www.twitch.tv/<username>
 
+profile:
+  show: false
+  order: 1
+  title: Profile
+  description: |
+    Experienced Full Stack Engineer with over {{ site.time | date: '%Y' | minus: 2015 }} years of expertise in developing robust web applications using a variety of frontend and backend technologies. Strong collaborator with a passion for learning new technologies and improving development workflows.
+
 skill:
   show: true
-  order: 1
+  order: 2
   title: Skills
   description:
   groups:
@@ -134,7 +141,7 @@ skill:
 
 experience:
   show: true
-  order: 2
+  order: 3
   title: Experiences
   description:
   items:
@@ -194,7 +201,7 @@ experience:
 
 education:
   show: true
-  order: 3
+  order: 4
   title: Education
   description:
   items:
@@ -221,7 +228,7 @@ education:
 
 certificate:
   show: true
-  order: 4
+  order: 5
   title: Certificates
   description:
   items:
@@ -231,12 +238,11 @@ certificate:
       link: 'https://www.credly.com/badges/adf2326b-2a24-4d79-be83-a2c76b935a78'
       description:
 
-profile:
-  show: false
-  order: 5
-  title: Profile
-  description: |
-    Experienced Full Stack Engineer with over 10 years of expertise in developing robust web applications using a variety of frontend and backend technologies. Proficient in designing scalable architectures and delivering high-quality, user-friendly solutions. Strong collaborator with a passion for learning new technologies and improving development workflows.
+    - name: Certification in CouldFusion 8
+      issuer: by Brainbench
+      date: 2016
+      link:
+      description:
 
 project:
   show: false
