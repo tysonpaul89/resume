@@ -4,7 +4,7 @@ meta:
 
 basic:
   name: Tyson Paul                      # name
-  title: Fullstack Developer           # job title 
+  title: Fullstack Developer           # job title
   avatar:
     show: true                       # show or hide avatar
     path: /assets/images/profile.png # file path or link to your avatar
@@ -110,7 +110,7 @@ experience:
   show: true
   order: 2
   title: Experiences
-  description: 
+  description:
   items:
     - company: Assistant Consultant
       link: 'https://www.tcs.com/'
@@ -172,7 +172,7 @@ skill:
   show: true
   order: 4
   title: Skills
-  description: 
+  description:
   items:
     - name: Python
       level: 5
@@ -194,7 +194,7 @@ skill:
       level: 3
 
   groups:
-  - name: Backend
+    - name: Backend
       item:
         - Python
         - Node.js
@@ -226,38 +226,38 @@ education:
   show: true
   order: 5
   title: Education
-  description: 
+  description:
   items:
     - institution: Bachelor of Engineering in Electronics And Instrumentation
-      link: 
+      link:
       date: 2008 - 2012
       major: Sri Ramakrishna Engineering College
       degree: Bachelor
-      description: 
+      description:
 
     - institution: Higher Secondary
       link:
       date: 2011 - 2015
       major: St. George's Higher Secondary School
       degree: Higher Secondary
-      description: 
+      description:
 
 certificate:
   show: true
   order: 6
   title: Certificates
-  description: 
+  description:
   items:
     - name: AWS Certified Developer – Associate
       issuer: AWS
       date: 2023
       link: '#'
-      description: 
+      description:
     - name: Certification in CouldFusion 8
       issuer: by Brainbench
       date: 2016
       link:
-      description: 
+      description:
 
 publication:
   show: false
