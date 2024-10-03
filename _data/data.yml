@@ -100,7 +100,7 @@ contact:
   twitch:                   # https://www.twitch.tv/<username>
 
 profile:
-  show: false
+  show: true
   order: 1
   title: Profile
   description: |
