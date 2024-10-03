@@ -228,13 +228,7 @@ certificate:
     - name: AWS Certified Developer - Associate
       issuer: by Amazon Web Services
       date: 2023
-      link:
-      description:
-
-    - name: Certification in CouldFusion 8
-      issuer: by Brainbench
-      date: 2016
-      link:
+      link: 'https://www.credly.com/badges/adf2326b-2a24-4d79-be83-a2c76b935a78'
       description:
 
 profile:
