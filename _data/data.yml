@@ -104,7 +104,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    Experienced Full Stack Engineer with over 9 years of expertise in developing robust web applications using a variety of front-end and back-end technologies. A quick learner with a proven ability to pick up new skills and technologies.
+    **Experienced Full Stack Engineer with over 9 years** of expertise in developing robust web applications using a variety of front-end and back-end technologies. A quick learner with a proven ability to pick up new skills and technologies.
 
     Strong collaborator with a passion for learning new technologies and improving development workflows. Familiar with various business domains including E-commerce, Workflow management, Survey platform, rostering systems.
 
@@ -170,6 +170,7 @@ experience:
         + Built and maintained RESTful APIs using Python, Django and PostgreSQL supporting various mobile and web applications.
         + Developed POC projects using Django and jQuery, that helped company to attract and onboard clients.
         + Worked closely with DevOps teams to deploy applications on AWS, ensuring high availability and scalability.
+        + Provided support to other team members in debugging and troubleshooting their applications.
         + Participated in Agile ceremonies and collaborated closely with cross-functional teams to deliver high-quality software on time.
 
     - company: Digital Mesh Softech(P) Ltd.
