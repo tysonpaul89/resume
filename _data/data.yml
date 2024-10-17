@@ -25,7 +25,7 @@ contact:
   # Please copy the <> part of the comment in the link to your profile on the relevant site and paste it here.
 
   # programming
-  github: https://github.com/tysonpaul89
+  github: tysonpaul89
   gitlab:                   # https://gitlab.com/<username>
   bitbucket:                # https://bitbucket.com/<username>
   git:                      # selfhost git site link without schema "https://"
@@ -117,10 +117,11 @@ skill:
     - name: Backend
       item:
         - Python
-        - Node.js
         - Go Lang
+        - Node.js
         - Express
         - Django
+        - Java
     - name: Frontend
       item:
         - HTML
@@ -147,22 +148,37 @@ experience:
   title: Experiences
   description:
   items:
-    - company: Assistant Consultant
-      link: 'https://www.tcs.com/'
-      tags: Full-time
+    - company: Nielsen - Digital Panel Helper
+      link: ''
+      tags: TCS Project, Full-time
       date: August 2022 - Present
       role: Assistant Consultant
       location: Kochi, Kerala, India
       description: |
-        + Developed and maintained backend applications using Python, Java and PostgreSQL.
-        + Developed a internal application using Go lang, HTMX and Alpine.js to simplify common repeatable tasks in the project.
+        + Manual tasks like log decryption, user management, and data obfuscation within LSR Digital Panel operations are time-consuming, error-prone, and hinder productivity.
+        + Developed a centralized Digital Panel Helper tool that automates common repeatable tasks, boosting efficiency, reducing errors, and enhancing data security.
+        + The backend of this app was developed using **Go Lang**, which contains APIs using net/http library and used AWS SDK in Go to access services like SSM, Lambda, etc
+        + Single page frontend of this applicable uses HTMX and Alpine.js for dynamic behavior and reactivity.
+
+    - company: Nielsen - Digital Panel
+      link: 'https://computermobilepanel.nielsen.com/'
+      tags: TCS Project, Full-time
+      date: August 2022 - Present
+      role: Assistant Consultant
+      location: Kochi, Kerala, India
+      description: |
+        + Nielsen is a global leader in audience insights, data and analytics.
+        + Nielsen's Digital Panel application onboard users to its platform using the signup and registration forms.
+        + Using digital panel application, user can manage their devices of a household and install special software that that collect data to build a picture of consumer behavior.
+        + Project uses microservice architecture which make use of the AWS cloud services such as **AWS Lambda**, **API Gateway**, SNS, SQS, ELB, RDS, DynamoDB, **Airflow**(AWS Managed ), etc
+        + Developed and maintained backend applications using **Python**, **Java** and **PostgreSQL**.
         + Migrated Jenkins to Gitlab CI/CD using Terraform for reduced deployment times and increasing release frequency.
         + Collaborated with support teams in fixing production issues raised by customer.
         + Occasionally provided support to frontend in maintaining application using Angular and Node.js
 
     - company: Accubits Technologies Inc
       link: 'https://accubits.com/'
-      tags: Full-time, Remote
+      tags: External Project, Full-time, Remote
       date: February 2021 - August 2022
       role: Python Developer
       location: Kochi, Kerala, India
@@ -174,20 +190,20 @@ experience:
 
     - company: Digital Mesh Softech(P) Ltd.
       link: 'https://www.digitalmesh.com/'
-      tags: Full-time
+      tags: External Project, Full-time
       date: July 2015 - February 2021
       role: Senior Software Engineer
       location: Kochi, Kerala, India
       description: |
         + Developed and maintained fullstack applications using Python, Django, jQuery and MySQL.
         + Collaborated with senior developer to create a No code static website builder for a client.
-        + Led frontend development of internal HRMS application using Angular.
+        + Led frontend development of internal HRMS application using **Angular**.
         + Assisted senior developers to migrate and maintain a E-commerce platform using ColdFusion 11, jQuery and Microsoft SQL database.
         + Maintained a rostering application for healthcare teams using PHP, Yii framework and jQuery.
 
     - company: Vikram Sarabhai Space Centre, ISRO
       link: 'https://www.digitalmesh.com/'
-      tags: Full-time
+      tags: External Project, Full-time
       date: October 2012 - October 2013
       role: Contract Engineer
       location: Thiruvananthapuram, Kerala, India
