@@ -201,18 +201,6 @@ experience:
         + Assisted senior developers to migrate and maintain a E-commerce platform using ColdFusion 11, jQuery and Microsoft SQL database.
         + Maintained a rostering application for healthcare teams using PHP, Yii framework and jQuery.
 
-    - company: Vikram Sarabhai Space Centre, ISRO
-      link: 'https://www.digitalmesh.com/'
-      tags: External Project, Full-time
-      date: October 2012 - October 2013
-      role: Contract Engineer
-      location: Thiruvananthapuram, Kerala, India
-      description: |
-        + Assisted senior engineer with initial testing of the RESINS sensor before handing it over to QA team.
-        + Collaborated with QA team and performed RESINS sensor integration testing.
-        + Performed daily analysis of sensor data for any anomalies.
-        + Contributed to the creation of data-driven reports to senior management, highlighting key findings.
-
 education:
   show: true
   order: 4
