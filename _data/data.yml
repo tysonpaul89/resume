@@ -147,9 +147,9 @@ experience:
   title: Experiences
   description:
   items:
-    - company: Assistant Consultant
-      link: 'https://www.tcs.com/'
-      tags: Full-time
+    - company: Nielsen - Digital Panel
+      link: 'https://computermobilepanel.nielsen.com/'
+      tags: TCS Project, Full-time
       date: August 2022 - Present
       role: Assistant Consultant
       location: Kochi, Kerala, India
@@ -162,7 +162,7 @@ experience:
 
     - company: Accubits Technologies Inc
       link: 'https://accubits.com/'
-      tags: Full-time, Remote
+      tags: Pervious Employer, Full-time, Remote
       date: February 2021 - August 2022
       role: Python Developer
       location: Kochi, Kerala, India
@@ -174,7 +174,7 @@ experience:
 
     - company: Digital Mesh Softech(P) Ltd.
       link: 'https://www.digitalmesh.com/'
-      tags: Full-time
+      tags: Pervious Employer, Full-time
       date: July 2015 - February 2021
       role: Senior Software Engineer
       location: Kochi, Kerala, India
@@ -187,7 +187,7 @@ experience:
 
     - company: Vikram Sarabhai Space Centre, ISRO
       link: 'https://www.digitalmesh.com/'
-      tags: Full-time
+      tags: Pervious Employer, Non-IT Project, Full-time
       date: October 2012 - October 2013
       role: Contract Engineer
       location: Thiruvananthapuram, Kerala, India
