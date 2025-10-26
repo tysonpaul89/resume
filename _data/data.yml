@@ -104,7 +104,7 @@ profile:
   order: 1
   title: Profile
   description: |
-    **Experienced Full Stack Engineer with over 9 years** of expertise in developing robust web applications using a variety of front-end and back-end technologies. A quick learner with a proven ability to pick up new skills and technologies.
+    **Experienced Full Stack Engineer with over 10 years** of expertise in developing robust web applications using a variety of front-end and back-end technologies. A quick learner with a proven ability to pick up new skills and technologies.
     <br><br>
     Strong collaborator with a passion for learning new technologies and improving development workflows. Familiar with various business domains including E-commerce, Workflow management, Survey platform, rostering systems.
 
@@ -116,9 +116,9 @@ skill:
   groups:
     - name: Backend
       item:
+        - Go Lang
         - Python
         - Node.js
-        - Go Lang
         - Express
         - Django
     - name: Frontend
@@ -133,6 +133,7 @@ skill:
       item:
         - PostgreSQL
         - MySQL
+        - Oracle
         - DynamoDB
     - name: DevOps
       item:
@@ -147,10 +148,23 @@ experience:
   title: Experiences
   description:
   items:
+    - company: McGraw Hill
+      link: 'https://www.mheducation.com/'
+      tags: TCS Project, Full-time
+      date: October 2024 - Present
+      role: Assistant Consultant
+      location: Kochi, Kerala, India
+      description: |
+        + Migrate Oracle Service Bus application(Oracle SOA Suite) to RESTful microservice using Go lang, Java and Oracle database.
+        + Designed and created framework based on Go lang's Gin framework for jumpstarting production-ready microservice project.
+        + Collaborated with support teams in fixing production issues raised by customer.
+        + Lead developer of the migration team and provides support team during their needs.
+        + Mentors new joiners and junior develper
+
     - company: Nielsen - Digital Panel
       link: 'https://computermobilepanel.nielsen.com/'
       tags: TCS Project, Full-time
-      date: August 2022 - Present
+      date: August 2022 - October 2024
       role: Assistant Consultant
       location: Kochi, Kerala, India
       description: |
